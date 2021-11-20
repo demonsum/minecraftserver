@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 13:21:03 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Balrog by maxmar628
+SpawnZ=-628
+SpawnY=10
+SpawnX=-46

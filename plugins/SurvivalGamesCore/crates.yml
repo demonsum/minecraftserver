@@ -1,0 +1,134 @@
+MAX_AMOUNT_IN_CRATE: 10
+MIN_AMOUNT_IN_CRATE: 2
+TIER1:
+  '1':
+    ITEM_ID: '271'
+    MAX_AMOUNT: 1
+    CHANCE: 50
+  '2':
+    ITEM_ID: '301'
+    MAX_AMOUNT: 1
+    CHANCE: 50
+  '3':
+    ITEM_ID: '262'
+    MAX_AMOUNT: 16
+    CHANCE: 70
+  '4':
+    ITEM_ID: '280'
+    MAX_AMOUNT: 2
+    CHANCE: 80
+  '5':
+    ITEM_ID: '259'
+    DURABILITY: 59
+    MAX_AMOUNT: 2
+    CHANCE: 70
+  '6':
+    ITEM_ID: '346'
+    MAX_AMOUNT: 1
+    CHANCE: 10
+  '7':
+    ITEM_ID: '282'
+    MAX_AMOUNT: 2
+    CHANCE: 40
+  '8':
+    ITEM_ID: '297'
+    MAX_AMOUNT: 2
+    CHANCE: 40
+  '9':
+    ITEM_ID: '288'
+    MAX_AMOUNT: 4
+    CHANCE: 35
+  '10':
+    ITEM_ID: '46'
+    MAX_AMOUNT: 2
+    CHANCE: 15
+  '11':
+    ITEM_ID: '268'
+    MAX_AMOUNT: 1
+    CHANCE: 30
+  '12':
+    ITEM_ID: '272'
+    MAX_AMOUNT: 1
+    CHANCE: 15
+  '13':
+    ITEM_ID: '302'
+    MAX_AMOUNT: 1
+    CHANCE: 20
+  '14':
+    ITEM_ID: '304'
+    MAX_AMOUNT: 1
+    CHANCE: 20
+  '15':
+    ITEM_ID: '315'
+    MAX_AMOUNT: 1
+    CHANCE: 30
+TIER2:
+  '1':
+    ITEM_ID: '346'
+    MAX_AMOUNT: 1
+    CHANCE: 50
+  '2':
+    ITEM_ID: '262'
+    MAX_AMOUNT: 16
+    CHANCE: 40
+  '3':
+    ITEM_ID: '261'
+    MAX_AMOUNT: 1
+    CHANCE: 20
+  '4':
+    ITEM_ID: '309'
+    MAX_AMOUNT: 1
+    CHANCE: 15
+  '5':
+    ITEM_ID: '303'
+    MAX_AMOUNT: 1
+    CHANCE: 12
+  '6':
+    ITEM_ID: '322'
+    MAX_AMOUNT: 1
+    CHANCE: 4
+  '7':
+    ITEM_ID: '265'
+    MAX_AMOUNT: 2
+    CHANCE: 2
+  '8':
+    ITEM_ID: '322'
+    MAX_AMOUNT: 1
+    CHANCE: 4
+  '9':
+    ITEM_ID: '267'
+    MAX_AMOUNT: 1
+    CHANCE: 10
+  '10':
+    ITEM_ID: '262'
+    MAX_AMOUNT: 32
+    CHANCE: 4
+  '11':
+    ITEM_ID: '322'
+    MAX_AMOUNT: 1
+    CHANCE: 4
+  '12':
+    ITEM_ID: '261'
+    MAX_AMOUNT: 1
+    CHANCE: 50
+  '13':
+    ITEM_ID: '280'
+    MAX_AMOUNT: 2
+    CHANCE: 56
+  '14':
+    ITEM_ID: '354'
+    MAX_AMOUNT: 1
+    CHANCE: 10
+  '15':
+    ITEM_ID: '307'
+    MAX_AMOUNT: 1
+    CHANCE: 17
+TIER3:
+  '1':
+    ITEM_ID: '264'
+    MAX_AMOUNT: 1
+    CHANCE: 10
+  '2':
+    ITEM_ID: '307'
+    MAX_AMOUNT: 1
+    CHANCE: 80

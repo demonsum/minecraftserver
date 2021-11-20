@@ -1,0 +1,5 @@
+#
+#Fri May 30 22:53:59 GMT-03:00 2014
+GameType=creative
+LinkedWorlds=
+ServerName=Lobby HG Olimpo by maxmar628

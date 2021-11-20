@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 13:03:52 GMT-03:00 2014
+Spawn=xyz
+LinkedWorlds=
+GameType=creative
+ServerName=Destiny Shive by maxmar628
+SpawnZ=579
+SpawnY=64
+SpawnX=-4544

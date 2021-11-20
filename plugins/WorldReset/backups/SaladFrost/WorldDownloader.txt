@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 12:15:28 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Salad Frost by maxmar628
+SpawnZ=-1346
+SpawnY=7
+SpawnX=-379

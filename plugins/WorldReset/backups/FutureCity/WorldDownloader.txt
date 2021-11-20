@@ -1,0 +1,9 @@
+#
+#Fri Jun 06 14:23:27 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Future City by maxmar628
+SpawnZ=-1204
+SpawnY=93
+SpawnX=113

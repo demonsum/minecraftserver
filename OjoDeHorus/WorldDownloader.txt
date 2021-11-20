@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 12:06:44 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Ojo de Horus by maxmar628
+SpawnZ=208
+SpawnY=65
+SpawnX=-15

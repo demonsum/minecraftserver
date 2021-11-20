@@ -1,0 +1,20 @@
+lastAccountName: Forge37gamer
+timestamps:
+  login: 1431189942480
+  logout: 1431189938757
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Boombeard
+  x: -244.79137272799983
+  y: 185.0
+  z: 312.4218332086036
+  yaw: 173.44034
+  pitch: -21.22781
+logoutlocation:
+  world: MCSGLobby
+  x: 262.5
+  y: 83.0
+  z: 39.5
+  yaw: 0.0
+  pitch: -1.0
+afk: true

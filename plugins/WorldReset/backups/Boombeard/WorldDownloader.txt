@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 11:42:36 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Boombeard by maxmar628
+SpawnZ=352
+SpawnY=187
+SpawnX=-257

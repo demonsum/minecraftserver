@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 13:47:45 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Cloudy by maxmar628
+SpawnZ=-1045
+SpawnY=62
+SpawnX=-262

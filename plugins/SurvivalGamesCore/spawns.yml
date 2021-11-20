@@ -1,0 +1,1867 @@
+LOBBY:
+  X: 262
+  Y: 83
+  Z: 39
+  YAW: 0.2293946
+  PITCH: -1.1469483
+  WORLD: MCSGLobby
+MAPS:
+  Alaskan:
+    '1':
+      X: 257
+      Y: 78
+      Z: 280
+      YAW: 179.39996
+      PITCH: 13.049958
+      WORLD: Alaskan
+    '2':
+      X: 265
+      Y: 78
+      Z: 279
+      YAW: 146.40005
+      PITCH: 15.449944
+      WORLD: Alaskan
+    '3':
+      X: 270
+      Y: 78
+      Z: 276
+      YAW: 150.44946
+      PITCH: 27.749964
+      WORLD: Alaskan
+    '4':
+      X: 274
+      Y: 78
+      Z: 273
+      YAW: 142.04953
+      PITCH: 7.199946
+      WORLD: Alaskan
+    '5':
+      X: 277
+      Y: 78
+      Z: 269
+      YAW: 125.399536
+      PITCH: 8.0999365
+      WORLD: Alaskan
+    '6':
+      X: 280
+      Y: 78
+      Z: 264
+      YAW: 110.21164
+      PITCH: 11.632848
+      WORLD: Alaskan
+    '7':
+      X: 281
+      Y: 78
+      Z: 256
+      YAW: 96.11157
+      PITCH: 25.432842
+      WORLD: Alaskan
+    '8':
+      X: 280
+      Y: 78
+      Z: 248
+      YAW: 74.361664
+      PITCH: 21.532848
+      WORLD: Alaskan
+    '9':
+      X: 277
+      Y: 78
+      Z: 243
+      YAW: 47.511414
+      PITCH: -10.199973
+      WORLD: Alaskan
+    '10':
+      X: 274
+      Y: 78
+      Z: 239
+      YAW: 55.1615
+      PITCH: 2.7000294
+      WORLD: Alaskan
+    '11':
+      X: 270
+      Y: 78
+      Z: 236
+      YAW: 32.511566
+      PITCH: 13.800038
+      WORLD: Alaskan
+    '12':
+      X: 265
+      Y: 78
+      Z: 233
+      YAW: 29.511597
+      PITCH: 11.250037
+      WORLD: Alaskan
+    '13':
+      X: 257
+      Y: 78
+      Z: 232
+      YAW: 11.961517
+      PITCH: 16.950033
+      WORLD: Alaskan
+    '14':
+      X: 249
+      Y: 78
+      Z: 233
+      YAW: 337.46133
+      PITCH: 3.1500332
+      WORLD: Alaskan
+    '15':
+      X: 244
+      Y: 78
+      Z: 236
+      YAW: 318.11124
+      PITCH: 20.400038
+      WORLD: Alaskan
+    '16':
+      X: 240
+      Y: 78
+      Z: 239
+      YAW: 316.3112
+      PITCH: 17.550058
+      WORLD: Alaskan
+    '17':
+      X: 237
+      Y: 78
+      Z: 243
+      YAW: 304.61133
+      PITCH: 12.45007
+      WORLD: Alaskan
+    '18':
+      X: 234
+      Y: 78
+      Z: 248
+      YAW: 290.36105
+      PITCH: 5.100085
+      WORLD: Alaskan
+    '19':
+      X: 233
+      Y: 78
+      Z: 256
+      YAW: 264.11105
+      PITCH: 14.550099
+      WORLD: Alaskan
+    '20':
+      X: 234
+      Y: 78
+      Z: 264
+      YAW: 260.36087
+      PITCH: 19.350105
+      WORLD: Alaskan
+    '21':
+      X: 237
+      Y: 78
+      Z: 269
+      YAW: 220.91078
+      PITCH: 7.5001206
+      WORLD: Alaskan
+    '22':
+      X: 240
+      Y: 78
+      Z: 273
+      YAW: 220.16087
+      PITCH: 35.700127
+      WORLD: Alaskan
+    '23':
+      X: 244
+      Y: 78
+      Z: 276
+      YAW: 207.7109
+      PITCH: -10.049885
+      WORLD: Alaskan
+    '24':
+      X: 249
+      Y: 78
+      Z: 279
+      YAW: 196.76094
+      PITCH: -7.799869
+      WORLD: Alaskan
+  Balrog:
+    '1':
+      X: -45
+      Y: 9
+      Z: -623
+      YAW: 82.19989
+      PITCH: 35.849995
+      WORLD: Balrog
+    '2':
+      X: -46
+      Y: 9
+      Z: -618
+      YAW: 101.09976
+      PITCH: 21.750004
+      WORLD: Balrog
+    '3':
+      X: -47
+      Y: 9
+      Z: -613
+      YAW: 114.29971
+      PITCH: 1.8
+      WORLD: Balrog
+    '4':
+      X: -51
+      Y: 9
+      Z: -608
+      YAW: 133.94974
+      PITCH: 9.599992
+      WORLD: Balrog
+    '5':
+      X: -56
+      Y: 9
+      Z: -604
+      YAW: 148.94998
+      PITCH: 7.5000033
+      WORLD: Balrog
+    '6':
+      X: -61
+      Y: 9
+      Z: -603
+      YAW: 167.84949
+      PITCH: 23.999983
+      WORLD: Balrog
+    '7':
+      X: -66
+      Y: 9
+      Z: -602
+      YAW: 173.84967
+      PITCH: 5.099981
+      WORLD: Balrog
+    '8':
+      X: -71
+      Y: 9
+      Z: -603
+      YAW: 190.34949
+      PITCH: -2.1000178
+      WORLD: Balrog
+    '9':
+      X: -76
+      Y: 9
+      Z: -604
+      YAW: 209.99951
+      PITCH: 4.199974
+      WORLD: Balrog
+    '10':
+      X: -81
+      Y: 9
+      Z: -608
+      YAW: 223.3493
+      PITCH: -2.1000102
+      WORLD: Balrog
+    '11':
+      X: -85
+      Y: 9
+      Z: -613
+      YAW: 240.29926
+      PITCH: -2.2500365
+      WORLD: Balrog
+    '12':
+      X: -86
+      Y: 9
+      Z: -618
+      YAW: 255.2992
+      PITCH: 3.7499611
+      WORLD: Balrog
+    '13':
+      X: -87
+      Y: 9
+      Z: -623
+      YAW: 267.74927
+      PITCH: -4.800038
+      WORLD: Balrog
+    '14':
+      X: -86
+      Y: 9
+      Z: -628
+      YAW: 279.29932
+      PITCH: 0.5999769
+      WORLD: Balrog
+    '15':
+      X: -85
+      Y: 9
+      Z: -633
+      YAW: 296.2492
+      PITCH: 17.39998
+      WORLD: Balrog
+    '16':
+      X: -81
+      Y: 9
+      Z: -638
+      YAW: 311.8493
+      PITCH: 5.5499916
+      WORLD: Balrog
+    '17':
+      X: -76
+      Y: 9
+      Z: -642
+      YAW: 332.69922
+      PITCH: 7.3500023
+      WORLD: Balrog
+    '18':
+      X: -71
+      Y: 9
+      Z: -643
+      YAW: 341.6994
+      PITCH: -0.8999798
+      WORLD: Balrog
+    '19':
+      X: -66
+      Y: 9
+      Z: -644
+      YAW: 357.44934
+      PITCH: -2.399979
+      WORLD: Balrog
+    '20':
+      X: -61
+      Y: 9
+      Z: -643
+      YAW: 12.899597
+      PITCH: 1.2000148
+      WORLD: Balrog
+    '21':
+      X: -56
+      Y: 9
+      Z: -642
+      YAW: 25.649414
+      PITCH: 1.0500094
+      WORLD: Balrog
+    '22':
+      X: -51
+      Y: 9
+      Z: -638
+      YAW: 43.499695
+      PITCH: 13.200018
+      WORLD: Balrog
+    '23':
+      X: -47
+      Y: 9
+      Z: -633
+      YAW: 53.6994
+      PITCH: 11.84999
+      WORLD: Balrog
+    '24':
+      X: -46
+      Y: 9
+      Z: -628
+      YAW: 80.24939
+      PITCH: -6.0000105
+      WORLD: Balrog
+  Boombeard:
+    '1':
+      X: -245
+      Y: 186
+      Z: 304
+      YAW: -9.552091
+      PITCH: 28.424015
+      WORLD: Boombeard
+    '2':
+      X: -237
+      Y: 186
+      Z: 300
+      YAW: -7.0021477
+      PITCH: -6.6759896
+      WORLD: Boombeard
+    '3':
+      X: -227
+      Y: 186
+      Z: 299
+      YAW: 0.19785014
+      PITCH: 25.124023
+      WORLD: Boombeard
+    '4':
+      X: -217
+      Y: 186
+      Z: 300
+      YAW: -0.7021622
+      PITCH: 25.874027
+      WORLD: Boombeard
+    '5':
+      X: -209
+      Y: 186
+      Z: 304
+      YAW: -6.702169
+      PITCH: 39.824024
+      WORLD: Boombeard
+    '6':
+      X: -202
+      Y: 186
+      Z: 309
+      YAW: 6.347862
+      PITCH: 26.324038
+      WORLD: Boombeard
+    '7':
+      X: -197
+      Y: 186
+      Z: 316
+      YAW: 94.097855
+      PITCH: 27.374046
+      WORLD: Boombeard
+    '8':
+      X: -193
+      Y: 186
+      Z: 324
+      YAW: 90.647865
+      PITCH: 36.074074
+      WORLD: Boombeard
+    '9':
+      X: -192
+      Y: 186
+      Z: 334
+      YAW: 90.94787
+      PITCH: 30.074068
+      WORLD: Boombeard
+    '10':
+      X: -193
+      Y: 186
+      Z: 344
+      YAW: 84.79786
+      PITCH: 44.174057
+      WORLD: Boombeard
+    '11':
+      X: -197
+      Y: 186
+      Z: 352
+      YAW: 75.197845
+      PITCH: 36.224052
+      WORLD: Boombeard
+    '12':
+      X: -202
+      Y: 186
+      Z: 359
+      YAW: 166.69781
+      PITCH: 26.924063
+      WORLD: Boombeard
+    '13':
+      X: -209
+      Y: 186
+      Z: 364
+      YAW: 182.89784
+      PITCH: 21.524097
+      WORLD: Boombeard
+    '14':
+      X: -217
+      Y: 186
+      Z: 368
+      YAW: 179.14783
+      PITCH: 30.824125
+      WORLD: Boombeard
+    '15':
+      X: -227
+      Y: 186
+      Z: 369
+      YAW: 174.94786
+      PITCH: 44.17412
+      WORLD: Boombeard
+    '16':
+      X: -237
+      Y: 186
+      Z: 368
+      YAW: 184.0978
+      PITCH: 18.374126
+      WORLD: Boombeard
+    '17':
+      X: -245
+      Y: 186
+      Z: 364
+      YAW: 169.69783
+      PITCH: 57.674118
+      WORLD: Boombeard
+    '18':
+      X: -252
+      Y: 186
+      Z: 359
+      YAW: 168.79778
+      PITCH: 47.924126
+      WORLD: Boombeard
+    '19':
+      X: -257
+      Y: 186
+      Z: 352
+      YAW: 240.64777
+      PITCH: 39.37413
+      WORLD: Boombeard
+    '20':
+      X: -261
+      Y: 186
+      Z: 344
+      YAW: 241.99776
+      PITCH: 21.074135
+      WORLD: Boombeard
+    '21':
+      X: -261
+      Y: 186
+      Z: 324
+      YAW: 261.0478
+      PITCH: 18.524126
+      WORLD: Boombeard
+    '22':
+      X: -257
+      Y: 186
+      Z: 316
+      YAW: 257.4477
+      PITCH: 41.02413
+      WORLD: Boombeard
+    '23':
+      X: -252
+      Y: 186
+      Z: 309
+      YAW: 330.7977
+      PITCH: 16.124128
+      WORLD: Boombeard
+    '24':
+      X: -262
+      Y: 186
+      Z: 334
+      YAW: 263.29767
+      PITCH: 21.674131
+      WORLD: Boombeard
+  Cloudy:
+    '1':
+      X: -235
+      Y: 60
+      Z: -1024
+      YAW: -271.49942
+      PITCH: 15.149942
+      WORLD: Cloudy
+    '2':
+      X: -236
+      Y: 60
+      Z: -1029
+      YAW: -298.7995
+      PITCH: 18.600004
+      WORLD: Cloudy
+    '3':
+      X: -238
+      Y: 60
+      Z: -1035
+      YAW: -298.34955
+      PITCH: 9.900009
+      WORLD: Cloudy
+    '4':
+      X: -241
+      Y: 60
+      Z: -1040
+      YAW: -313.6495
+      PITCH: 7.79999
+      WORLD: Cloudy
+    '5':
+      X: -246
+      Y: 60
+      Z: -1043
+      YAW: -329.84943
+      PITCH: 7.199982
+      WORLD: Cloudy
+    '6':
+      X: -252
+      Y: 60
+      Z: -1045
+      YAW: -345.29935
+      PITCH: -2.5500207
+      WORLD: Cloudy
+    '7':
+      X: -257
+      Y: 60
+      Z: -1046
+      YAW: -3.749054
+      PITCH: 6.7500424
+      WORLD: Cloudy
+    '8':
+      X: -262
+      Y: 60
+      Z: -1045
+      YAW: -11.399139
+      PITCH: 2.1000402
+      WORLD: Cloudy
+    '9':
+      X: -268
+      Y: 60
+      Z: -1043
+      YAW: -31.799164
+      PITCH: 9.3000345
+      WORLD: Cloudy
+    '10':
+      X: -273
+      Y: 60
+      Z: -1040
+      YAW: -38.84912
+      PITCH: 11.550037
+      WORLD: Cloudy
+    '11':
+      X: -276
+      Y: 60
+      Z: -1035
+      YAW: -63.599335
+      PITCH: 10.950032
+      WORLD: Cloudy
+    '12':
+      X: -278
+      Y: 60
+      Z: -1029
+      YAW: -71.39926
+      PITCH: 4.9500256
+      WORLD: Cloudy
+    '13':
+      X: -279
+      Y: 60
+      Z: -1024
+      YAW: -82.49936
+      PITCH: -4.3499713
+      WORLD: Cloudy
+    '14':
+      X: -278
+      Y: 60
+      Z: -1019
+      YAW: -105.59943
+      PITCH: 5.700035
+      WORLD: Cloudy
+    '15':
+      X: -276
+      Y: 60
+      Z: -1013
+      YAW: -118.79944
+      PITCH: -1.2000016
+      WORLD: Cloudy
+    '16':
+      X: -273
+      Y: 60
+      Z: -1008
+      YAW: -127.199524
+      PITCH: -3.8999987
+      WORLD: Cloudy
+    '17':
+      X: -268
+      Y: 60
+      Z: -1005
+      YAW: -137.39944
+      PITCH: 27.599966
+      WORLD: Cloudy
+    '18':
+      X: -262
+      Y: 60
+      Z: -1003
+      YAW: -162.29944
+      PITCH: 8.399964
+      WORLD: Cloudy
+    '19':
+      X: -257
+      Y: 60
+      Z: -1002
+      YAW: -168.29926
+      PITCH: 21.14997
+      WORLD: Cloudy
+    '20':
+      X: -252
+      Y: 60
+      Z: -1003
+      YAW: -194.09937
+      PITCH: 8.69997
+      WORLD: Cloudy
+    '21':
+      X: -246
+      Y: 60
+      Z: -1005
+      YAW: -210.44946
+      PITCH: 23.099962
+      WORLD: Cloudy
+    '22':
+      X: -241
+      Y: 60
+      Z: -1008
+      YAW: -227.09991
+      PITCH: -6.299976
+      WORLD: Cloudy
+    '23':
+      X: -238
+      Y: 60
+      Z: -1013
+      YAW: -252.1496
+      PITCH: 7.3500266
+      WORLD: Cloudy
+    '24':
+      X: -236
+      Y: 60
+      Z: -1019
+      YAW: -249.59973
+      PITCH: -3.2999723
+      WORLD: Cloudy
+  FutureCity:
+    '1':
+      X: 99
+      Y: 91
+      Z: -1210
+      YAW: 19.049927
+      PITCH: 31.649979
+      WORLD: futurecity
+    '2':
+      X: 94
+      Y: 91
+      Z: -1209
+      YAW: 336.89996
+      PITCH: 36.449986
+      WORLD: futurecity
+    '3':
+      X: 89
+      Y: 91
+      Z: -1207
+      YAW: 321.5999
+      PITCH: 4.6499844
+      WORLD: futurecity
+    '4':
+      X: 85
+      Y: 91
+      Z: -1204
+      YAW: 317.6999
+      PITCH: 11.100018
+      WORLD: futurecity
+    '5':
+      X: 82
+      Y: 91
+      Z: -1200
+      YAW: 300.8999
+      PITCH: -5.1
+      WORLD: futurecity
+    '6':
+      X: 80
+      Y: 91
+      Z: -1195
+      YAW: 294.44986
+      PITCH: 15.599987
+      WORLD: futurecity
+    '7':
+      X: 79
+      Y: 91
+      Z: -1190
+      YAW: 261.7499
+      PITCH: -2.8500037
+      WORLD: futurecity
+    '8':
+      X: 80
+      Y: 91
+      Z: -1185
+      YAW: 254.69995
+      PITCH: 4.350031
+      WORLD: futurecity
+    '9':
+      X: 82
+      Y: 91
+      Z: -1180
+      YAW: 240.14996
+      PITCH: 28.95004
+      WORLD: futurecity
+    '10':
+      X: 85
+      Y: 91
+      Z: -1176
+      YAW: 228.75
+      PITCH: 11.40005
+      WORLD: futurecity
+    '11':
+      X: 89
+      Y: 91
+      Z: -1173
+      YAW: -158.25003
+      PITCH: 5.5500307
+      WORLD: futurecity
+    '12':
+      X: 94
+      Y: 91
+      Z: -1171
+      YAW: -133.05005
+      PITCH: 42.900017
+      WORLD: futurecity
+    '13':
+      X: 99
+      Y: 91
+      Z: -1170
+      YAW: -134.25008
+      PITCH: 35.100037
+      WORLD: futurecity
+    '14':
+      X: 104
+      Y: 92
+      Z: -1171
+      YAW: -184.95006
+      PITCH: 20.850016
+      WORLD: futurecity
+    '15':
+      X: 109
+      Y: 91
+      Z: -1173
+      YAW: -206.70007
+      PITCH: 36.900013
+      WORLD: futurecity
+    '16':
+      X: 113
+      Y: 91
+      Z: -1176
+      YAW: -220.80011
+      PITCH: 34.800007
+      WORLD: futurecity
+    '17':
+      X: 116
+      Y: 92
+      Z: -1180
+      YAW: -216.75018
+      PITCH: 19.05002
+      WORLD: futurecity
+    '18':
+      X: 118
+      Y: 91
+      Z: -1185
+      YAW: -237.3002
+      PITCH: 16.050024
+      WORLD: futurecity
+    '19':
+      X: 119
+      Y: 91
+      Z: -1190
+      YAW: -282.45023
+      PITCH: 9.6000185
+      WORLD: futurecity
+    '20':
+      X: 118
+      Y: 91
+      Z: -1195
+      YAW: -269.85016
+      PITCH: 12.300013
+      WORLD: futurecity
+    '21':
+      X: 116
+      Y: 91
+      Z: -1200
+      YAW: -319.3501
+      PITCH: 3.3000045
+      WORLD: futurecity
+    '22':
+      X: 113
+      Y: 91
+      Z: -1204
+      YAW: -315.15012
+      PITCH: 14.699999
+      WORLD: futurecity
+    '23':
+      X: 109
+      Y: 91
+      Z: -1207
+      YAW: -343.9502
+      PITCH: 16.200003
+      WORLD: futurecity
+    '24':
+      X: 104
+      Y: 91
+      Z: -1209
+      YAW: -314.85025
+      PITCH: 28.500008
+      WORLD: futurecity
+  Destiny:
+    '1':
+      X: -4587
+      Y: 60
+      Z: 592
+      YAW: -97.350006
+      PITCH: -23.700022
+      WORLD: Destiny
+    '2':
+      X: -4586
+      Y: 60
+      Z: 599
+      YAW: -84.59997
+      PITCH: 27.749977
+      WORLD: Destiny
+    '3':
+      X: -4584
+      Y: 60
+      Z: 604
+      YAW: -133.19997
+      PITCH: 3.8999689
+      WORLD: Destiny
+    '4':
+      X: -4576
+      Y: 60
+      Z: 612
+      YAW: -117.90001
+      PITCH: 22.200016
+      WORLD: Destiny
+    '5':
+      X: -4571
+      Y: 60
+      Z: 614
+      YAW: -172.35002
+      PITCH: 22.650026
+      WORLD: Destiny
+    '6':
+      X: -4565
+      Y: 60
+      Z: 615
+      YAW: -165.30006
+      PITCH: 27.150036
+      WORLD: Destiny
+    '7':
+      X: -4559
+      Y: 60
+      Z: 614
+      YAW: -232.80006
+      PITCH: 13.200027
+      WORLD: Destiny
+    '8':
+      X: -4554
+      Y: 60
+      Z: 612
+      YAW: -227.70007
+      PITCH: 1.3500414
+      WORLD: Destiny
+    '9':
+      X: -4546
+      Y: 60
+      Z: 604
+      YAW: -245.25003
+      PITCH: 28.200045
+      WORLD: Destiny
+    '10':
+      X: -4544
+      Y: 60
+      Z: 599
+      YAW: -257.10007
+      PITCH: 23.100025
+      WORLD: Destiny
+    '11':
+      X: -4543
+      Y: 60
+      Z: 592
+      YAW: -264.6001
+      PITCH: 24.15004
+      WORLD: Destiny
+    '12':
+      X: -4544
+      Y: 60
+      Z: 585
+      YAW: -291.7502
+      PITCH: 9.300045
+      WORLD: Destiny
+    '13':
+      X: -4546
+      Y: 60
+      Z: 580
+      YAW: -283.35025
+      PITCH: 17.550049
+      WORLD: Destiny
+    '14':
+      X: -4554
+      Y: 60
+      Z: 572
+      YAW: -306.00012
+      PITCH: 30.600098
+      WORLD: Destiny
+    '15':
+      X: -4559
+      Y: 60
+      Z: 570
+      YAW: -328.50003
+      PITCH: 20.85011
+      WORLD: Destiny
+    '16':
+      X: -4565
+      Y: 60
+      Z: 569
+      YAW: -332.85004
+      PITCH: 22.950125
+      WORLD: Destiny
+    '17':
+      X: -4571
+      Y: 60
+      Z: 570
+      YAW: -321.60004
+      PITCH: 20.850132
+      WORLD: Destiny
+    '18':
+      X: -4576
+      Y: 60
+      Z: 572
+      YAW: -279.90005
+      PITCH: 90.0
+      WORLD: Destiny
+    '19':
+      X: -4584
+      Y: 60
+      Z: 580
+      YAW: -313.49997
+      PITCH: 89.7
+      WORLD: Destiny
+    '20':
+      X: -4586
+      Y: 60
+      Z: 585
+      YAW: -118.49994
+      PITCH: 10.799985
+      WORLD: Destiny
+    '21':
+      X: -4581
+      Y: 61
+      Z: 609
+      YAW: -130.19995
+      PITCH: 25.949951
+      WORLD: Destiny
+    '22':
+      X: -4549
+      Y: 61
+      Z: 609
+      YAW: -222.44983
+      PITCH: 32.24995
+      WORLD: Destiny
+    '23':
+      X: -4549
+      Y: 61
+      Z: 575
+      YAW: -309.89972
+      PITCH: 19.199968
+      WORLD: Destiny
+    '24':
+      X: -4581
+      Y: 61
+      Z: 575
+      YAW: -65.17755
+      PITCH: 19.318008
+      WORLD: Destiny
+  Fortaleza:
+    '1':
+      X: -289
+      Y: 67
+      Z: 1166
+      YAW: -2.5499678
+      PITCH: 18.150015
+      WORLD: Fortaleza
+    '2':
+      X: -292
+      Y: 67
+      Z: 1166
+      YAW: -20.249971
+      PITCH: 18.15003
+      WORLD: Fortaleza
+    '3':
+      X: -295
+      Y: 67
+      Z: 1167
+      YAW: -30.449986
+      PITCH: 14.700041
+      WORLD: Fortaleza
+    '4':
+      X: -298
+      Y: 67
+      Z: 1169
+      YAW: -65.4
+      PITCH: -0.89996094
+      WORLD: Fortaleza
+    '5':
+      X: -300
+      Y: 67
+      Z: 1172
+      YAW: -49.50001
+      PITCH: 17.400036
+      WORLD: Fortaleza
+    '6':
+      X: -301
+      Y: 67
+      Z: 1175
+      YAW: -77.69999
+      PITCH: 17.700048
+      WORLD: Fortaleza
+    '7':
+      X: -301
+      Y: 67
+      Z: 1178
+      YAW: -91.05
+      PITCH: 9.00007
+      WORLD: Fortaleza
+    '8':
+      X: -301
+      Y: 67
+      Z: 1181
+      YAW: -111.59999
+      PITCH: 14.100067
+      WORLD: Fortaleza
+    '9':
+      X: -300
+      Y: 67
+      Z: 1184
+      YAW: -122.7
+      PITCH: 12.900078
+      WORLD: Fortaleza
+    '10':
+      X: -298
+      Y: 67
+      Z: 1187
+      YAW: -142.2
+      PITCH: 16.95008
+      WORLD: Fortaleza
+    '11':
+      X: -295
+      Y: 67
+      Z: 1189
+      YAW: -146.40002
+      PITCH: 25.050085
+      WORLD: Fortaleza
+    '12':
+      X: -292
+      Y: 67
+      Z: 1190
+      YAW: -160.35004
+      PITCH: 19.050097
+      WORLD: Fortaleza
+    '13':
+      X: -289
+      Y: 67
+      Z: 1190
+      YAW: -163.80002
+      PITCH: 26.250093
+      WORLD: Fortaleza
+    '14':
+      X: -286
+      Y: 67
+      Z: 1190
+      YAW: -191.25002
+      PITCH: 23.700119
+      WORLD: Fortaleza
+    '15':
+      X: -283
+      Y: 67
+      Z: 1189
+      YAW: -208.95004
+      PITCH: 19.650118
+      WORLD: Fortaleza
+    '16':
+      X: -280
+      Y: 67
+      Z: 1187
+      YAW: -223.95
+      PITCH: 5.4001336
+      WORLD: Fortaleza
+    '17':
+      X: -278
+      Y: 67
+      Z: 1184
+      YAW: -234.59995
+      PITCH: 23.700134
+      WORLD: Fortaleza
+    '18':
+      X: -277
+      Y: 67
+      Z: 1181
+      YAW: -242.39989
+      PITCH: 26.700008
+      WORLD: Fortaleza
+    '19':
+      X: -277
+      Y: 67
+      Z: 1178
+      YAW: -271.0499
+      PITCH: 26.700016
+      WORLD: Fortaleza
+    '20':
+      X: -277
+      Y: 67
+      Z: 1175
+      YAW: -287.39978
+      PITCH: 12.150029
+      WORLD: Fortaleza
+    '21':
+      X: -278
+      Y: 67
+      Z: 1172
+      YAW: -297.14978
+      PITCH: 18.000036
+      WORLD: Fortaleza
+    '22':
+      X: -280
+      Y: 67
+      Z: 1169
+      YAW: -308.69974
+      PITCH: 27.30003
+      WORLD: Fortaleza
+    '23':
+      X: -283
+      Y: 67
+      Z: 1167
+      YAW: -327.29974
+      PITCH: 19.800014
+      WORLD: Fortaleza
+    '24':
+      X: -286
+      Y: 67
+      Z: 1166
+      YAW: -303.14972
+      PITCH: 24.900015
+      WORLD: Fortaleza
+  OjoDeHorus:
+    '1':
+      X: -12
+      Y: 64
+      Z: 220
+      YAW: 90.89926
+      PITCH: 71.25
+      WORLD: OjoDeHorus
+    '2':
+      X: -12
+      Y: 64
+      Z: 225
+      YAW: 92.09915
+      PITCH: 35.550003
+      WORLD: OjoDeHorus
+    '3':
+      X: -15
+      Y: 64
+      Z: 232
+      YAW: 111.44882
+      PITCH: 31.05001
+      WORLD: OjoDeHorus
+    '4':
+      X: -19
+      Y: 64
+      Z: 238
+      YAW: 103.94882
+      PITCH: 45.300007
+      WORLD: OjoDeHorus
+    '5':
+      X: -25
+      Y: 64
+      Z: 242
+      YAW: 123.2988
+      PITCH: 45.59999
+      WORLD: OjoDeHorus
+    '6':
+      X: -32
+      Y: 64
+      Z: 245
+      YAW: 153.14899
+      PITCH: 24.149988
+      WORLD: OjoDeHorus
+    '7':
+      X: -37
+      Y: 64
+      Z: 245
+      YAW: 164.099
+      PITCH: 24.599977
+      WORLD: OjoDeHorus
+    '8':
+      X: -42
+      Y: 64
+      Z: 245
+      YAW: 177.14886
+      PITCH: 22.649975
+      WORLD: OjoDeHorus
+    '9':
+      X: -49
+      Y: 64
+      Z: 242
+      YAW: 221.8487
+      PITCH: 12.599972
+      WORLD: OjoDeHorus
+    '10':
+      X: -55
+      Y: 64
+      Z: 238
+      YAW: 234.44873
+      PITCH: 29.999975
+      WORLD: OjoDeHorus
+    '11':
+      X: -59
+      Y: 64
+      Z: 232
+      YAW: 230.2486
+      PITCH: 15.599991
+      WORLD: OjoDeHorus
+    '12':
+      X: -62
+      Y: 64
+      Z: 225
+      YAW: 231.7486
+      PITCH: 10.799994
+      WORLD: OjoDeHorus
+    '13':
+      X: -62
+      Y: 64
+      Z: 220
+      YAW: 252.89868
+      PITCH: 24.599989
+      WORLD: OjoDeHorus
+    '14':
+      X: -62
+      Y: 64
+      Z: 215
+      YAW: 270.29865
+      PITCH: 18.14999
+      WORLD: OjoDeHorus
+    '15':
+      X: -59
+      Y: 64
+      Z: 208
+      YAW: 228.89886
+      PITCH: 42.14999
+      WORLD: OjoDeHorus
+    '16':
+      X: -55
+      Y: 64
+      Z: 202
+      YAW: 262.94885
+      PITCH: 54.599983
+      WORLD: OjoDeHorus
+    '17':
+      X: -49
+      Y: 64
+      Z: 198
+      YAW: 313.34894
+      PITCH: 7.7999806
+      WORLD: OjoDeHorus
+    '18':
+      X: -42
+      Y: 64
+      Z: 195
+      YAW: 0.4491577
+      PITCH: 21.749968
+      WORLD: OjoDeHorus
+    '19':
+      X: -37
+      Y: 64
+      Z: 195
+      YAW: 328.19934
+      PITCH: 15.599961
+      WORLD: OjoDeHorus
+    '20':
+      X: -32
+      Y: 64
+      Z: 195
+      YAW: 321.29968
+      PITCH: 43.949966
+      WORLD: OjoDeHorus
+    '21':
+      X: -25
+      Y: 64
+      Z: 198
+      YAW: 305.39954
+      PITCH: 22.799967
+      WORLD: OjoDeHorus
+    '22':
+      X: -19
+      Y: 64
+      Z: 202
+      YAW: 2.2496338
+      PITCH: 64.34996
+      WORLD: OjoDeHorus
+    '23':
+      X: -15
+      Y: 64
+      Z: 208
+      YAW: 7.949524
+      PITCH: 73.19996
+      WORLD: OjoDeHorus
+    '24':
+      X: -12
+      Y: 64
+      Z: 215
+      YAW: 39.449585
+      PITCH: 45.74995
+      WORLD: OjoDeHorus
+  SaladFrost:
+    '1':
+      X: -398
+      Y: 6
+      Z: -1300
+      YAW: -181.04993
+      PITCH: 17.700108
+      WORLD: saladfrost
+    '2':
+      X: -392
+      Y: 6
+      Z: -1301
+      YAW: -204.90002
+      PITCH: 10.050094
+      WORLD: saladfrost
+    '3':
+      X: -385
+      Y: 6
+      Z: -1303
+      YAW: -217.50006
+      PITCH: 20.700087
+      WORLD: saladfrost
+    '4':
+      X: -379
+      Y: 6
+      Z: -1308
+      YAW: -213.15033
+      PITCH: 10.80008
+      WORLD: saladfrost
+    '5':
+      X: -374
+      Y: 6
+      Z: -1314
+      YAW: -229.05096
+      PITCH: 25.800074
+      WORLD: saladfrost
+    '6':
+      X: -372
+      Y: 6
+      Z: -1321
+      YAW: -252.6012
+      PITCH: 40.050026
+      WORLD: saladfrost
+    '7':
+      X: -371
+      Y: 6
+      Z: -1327
+      YAW: -264.3014
+      PITCH: 12.299994
+      WORLD: saladfrost
+    '8':
+      X: -372
+      Y: 6
+      Z: -1333
+      YAW: -289.65143
+      PITCH: 5.8500085
+      WORLD: saladfrost
+    '9':
+      X: -374
+      Y: 6
+      Z: -1340
+      YAW: -301.80188
+      PITCH: 24.75001
+      WORLD: saladfrost
+    '10':
+      X: -379
+      Y: 6
+      Z: -1346
+      YAW: -311.10248
+      PITCH: 17.55001
+      WORLD: saladfrost
+    '11':
+      X: -385
+      Y: 6
+      Z: -1351
+      YAW: -322.65222
+      PITCH: 30.300005
+      WORLD: saladfrost
+    '12':
+      X: -392
+      Y: 6
+      Z: -1353
+      YAW: -355.6521
+      PITCH: -5.700001
+      WORLD: saladfrost
+    '13':
+      X: -398
+      Y: 6
+      Z: -1354
+      YAW: -329.8523
+      PITCH: 38.099995
+      WORLD: saladfrost
+    '14':
+      X: -404
+      Y: 6
+      Z: -1353
+      YAW: -16.652039
+      PITCH: 20.699991
+      WORLD: saladfrost
+    '15':
+      X: -411
+      Y: 6
+      Z: -1351
+      YAW: -5.552185
+      PITCH: 28.049994
+      WORLD: saladfrost
+    '16':
+      X: -417
+      Y: 6
+      Z: -1346
+      YAW: -37.20221
+      PITCH: 21.300005
+      WORLD: saladfrost
+    '17':
+      X: -422
+      Y: 6
+      Z: -1340
+      YAW: -45.151978
+      PITCH: 22.499996
+      WORLD: saladfrost
+    '18':
+      X: -424
+      Y: 6
+      Z: -1333
+      YAW: -85.35193
+      PITCH: 24.30001
+      WORLD: saladfrost
+    '19':
+      X: -425
+      Y: 6
+      Z: -1327
+      YAW: -85.65222
+      PITCH: 25.349985
+      WORLD: saladfrost
+    '20':
+      X: -424
+      Y: 6
+      Z: -1321
+      YAW: -86.401855
+      PITCH: 25.949987
+      WORLD: saladfrost
+    '21':
+      X: -422
+      Y: 6
+      Z: -1314
+      YAW: -101.70227
+      PITCH: 24.899975
+      WORLD: saladfrost
+    '22':
+      X: -417
+      Y: 6
+      Z: -1308
+      YAW: -158.70197
+      PITCH: 29.099968
+      WORLD: saladfrost
+    '23':
+      X: -411
+      Y: 6
+      Z: -1303
+      YAW: -155.1023
+      PITCH: 24.149986
+      WORLD: saladfrost
+    '24':
+      X: -404
+      Y: 6
+      Z: -1301
+      YAW: -185.40265
+      PITCH: 16.799986
+      WORLD: saladfrost
+  Teweran:
+    '1':
+      X: 455
+      Y: 11
+      Z: 723
+      YAW: 271.49988
+      PITCH: 36.599968
+      WORLD: Teweran
+    '2':
+      X: 456
+      Y: 11
+      Z: 728
+      YAW: 263.6997
+      PITCH: 12.149986
+      WORLD: Teweran
+    '3':
+      X: 458
+      Y: 11
+      Z: 733
+      YAW: 256.04938
+      PITCH: -50.39998
+      WORLD: Teweran
+    '4':
+      X: 461
+      Y: 11
+      Z: 737
+      YAW: 247.49994
+      PITCH: -90.0
+      WORLD: Teweran
+    '5':
+      X: 465
+      Y: 11
+      Z: 740
+      YAW: 274.20007
+      PITCH: -69.75001
+      WORLD: Teweran
+    '6':
+      X: 470
+      Y: 11
+      Z: 742
+      YAW: 275.85022
+      PITCH: -85.95001
+      WORLD: Teweran
+    '7':
+      X: 475
+      Y: 11
+      Z: 743
+      YAW: 270.75006
+      PITCH: -90.0
+      WORLD: Teweran
+    '8':
+      X: 480
+      Y: 11
+      Z: 742
+      YAW: 218.55035
+      PITCH: -86.70003
+      WORLD: Teweran
+    '9':
+      X: 485
+      Y: 11
+      Z: 740
+      YAW: 262.95038
+      PITCH: -77.85002
+      WORLD: Teweran
+    '10':
+      X: 489
+      Y: 11
+      Z: 737
+      YAW: 317.25037
+      PITCH: -90.0
+      WORLD: Teweran
+    '11':
+      X: 492
+      Y: 11
+      Z: 734
+      YAW: 209.24994
+      PITCH: -17.999983
+      WORLD: Teweran
+    '12':
+      X: 494
+      Y: 11
+      Z: 728
+      YAW: 187.64978
+      PITCH: -66.74998
+      WORLD: Teweran
+    '13':
+      X: 495
+      Y: 11
+      Z: 723
+      YAW: 157.04987
+      PITCH: -90.0
+      WORLD: Teweran
+    '14':
+      X: 494
+      Y: 11
+      Z: 718
+      YAW: 181.64972
+      PITCH: -90.0
+      WORLD: Teweran
+    '15':
+      X: 492
+      Y: 11
+      Z: 713
+      YAW: 178.5
+      PITCH: -89.40002
+      WORLD: Teweran
+    '16':
+      X: 489
+      Y: 11
+      Z: 709
+      YAW: 151.7995
+      PITCH: 52.799957
+      WORLD: Teweran
+    '17':
+      X: 485
+      Y: 11
+      Z: 706
+      YAW: 70.4989
+      PITCH: -90.0
+      WORLD: Teweran
+    '18':
+      X: 480
+      Y: 11
+      Z: 704
+      YAW: 91.19885
+      PITCH: 55.80002
+      WORLD: Teweran
+    '19':
+      X: 475
+      Y: 11
+      Z: 703
+      YAW: 355.04883
+      PITCH: -17.1
+      WORLD: Teweran
+    '20':
+      X: 470
+      Y: 11
+      Z: 704
+      YAW: 43.199097
+      PITCH: -22.949999
+      WORLD: Teweran
+    '21':
+      X: 465
+      Y: 11
+      Z: 706
+      YAW: 342.29932
+      PITCH: -21.59998
+      WORLD: Teweran
+    '22':
+      X: 461
+      Y: 11
+      Z: 709
+      YAW: 322.94946
+      PITCH: -4.050015
+      WORLD: Teweran
+    '23':
+      X: 458
+      Y: 11
+      Z: 713
+      YAW: 307.34937
+      PITCH: 6.2999954
+      WORLD: Teweran
+    '24':
+      X: 456
+      Y: 11
+      Z: 718
+      YAW: 295.64923
+      PITCH: 3.1499953
+      WORLD: Teweran
+  Turbulencia:
+    '1':
+      X: 1072
+      Y: 53
+      Z: -47
+      YAW: 166.04999
+      PITCH: 15.600019
+      WORLD: Turbulencia
+    '2':
+      X: 1067
+      Y: 53
+      Z: -48
+      YAW: 171.90015
+      PITCH: -5.4000077
+      WORLD: Turbulencia
+    '3':
+      X: 1062
+      Y: 53
+      Z: -51
+      YAW: 216.60014
+      PITCH: -7.0500035
+      WORLD: Turbulencia
+    '4':
+      X: 1058
+      Y: 53
+      Z: -55
+      YAW: 234.45007
+      PITCH: 6.750002
+      WORLD: Turbulencia
+    '5':
+      X: 1055
+      Y: 53
+      Z: -60
+      YAW: 247.50009
+      PITCH: -9.299999
+      WORLD: Turbulencia
+    '6':
+      X: 1053
+      Y: 53
+      Z: -66
+      YAW: 260.84995
+      PITCH: 11.100009
+      WORLD: Turbulencia
+    '7':
+      X: 1053
+      Y: 53
+      Z: -72
+      YAW: 280.34988
+      PITCH: 6.450013
+      WORLD: Turbulencia
+    '8':
+      X: 1054
+      Y: 53
+      Z: -77
+      YAW: 292.79987
+      PITCH: 58.50002
+      WORLD: Turbulencia
+    '9':
+      X: 1057
+      Y: 53
+      Z: -82
+      YAW: 311.8499
+      PITCH: 21.600027
+      WORLD: Turbulencia
+    '10':
+      X: 1061
+      Y: 53
+      Z: -86
+      YAW: 329.55
+      PITCH: 43.200027
+      WORLD: Turbulencia
+    '11':
+      X: 1067
+      Y: 53
+      Z: -91
+      YAW: 343.79993
+      PITCH: 24.150034
+      WORLD: Turbulencia
+    '12':
+      X: 1072
+      Y: 53
+      Z: -91
+      YAW: 7.799988
+      PITCH: 15.900038
+      WORLD: Turbulencia
+    '13':
+      X: 1078
+      Y: 53
+      Z: -91
+      YAW: 8.250244
+      PITCH: 21.600046
+      WORLD: Turbulencia
+    '14':
+      X: 1083
+      Y: 53
+      Z: -90
+      YAW: 27.000427
+      PITCH: 0.60003495
+      WORLD: Turbulencia
+    '15':
+      X: 1088
+      Y: 53
+      Z: -87
+      YAW: 39.300537
+      PITCH: 7.80004
+      WORLD: Turbulencia
+    '16':
+      X: 1092
+      Y: 53
+      Z: -83
+      YAW: 18.900635
+      PITCH: 33.45004
+      WORLD: Turbulencia
+    '17':
+      X: 1095
+      Y: 53
+      Z: -78
+      YAW: 83.70068
+      PITCH: 29.700048
+      WORLD: Turbulencia
+    '18':
+      X: 1097
+      Y: 53
+      Z: -72
+      YAW: 85.05084
+      PITCH: 17.850052
+      WORLD: Turbulencia
+    '19':
+      X: 1097
+      Y: 53
+      Z: -66
+      YAW: 96.75067
+      PITCH: 18.600061
+      WORLD: Turbulencia
+    '20':
+      X: 1096
+      Y: 53
+      Z: -61
+      YAW: 91.50073
+      PITCH: 31.650051
+      WORLD: Turbulencia
+    '21':
+      X: 1093
+      Y: 53
+      Z: -56
+      YAW: 139.80072
+      PITCH: 9.75006
+      WORLD: Turbulencia
+    '22':
+      X: 1089
+      Y: 53
+      Z: -52
+      YAW: 133.80072
+      PITCH: -2.99994
+      WORLD: Turbulencia
+    '23':
+      X: 1084
+      Y: 53
+      Z: -49
+      YAW: 151.50085
+      PITCH: 9.000048
+      WORLD: Turbulencia
+    '24':
+      X: 1078
+      Y: 53
+      Z: -47
+      YAW: 180.45099
+      PITCH: 22.200048
+      WORLD: Turbulencia

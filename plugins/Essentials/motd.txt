@@ -1,0 +1,2 @@
+&aWelcome to MCSG, {PLAYER}.
+&6Vote with /vote <map number>

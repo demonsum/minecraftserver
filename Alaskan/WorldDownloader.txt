@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 12:25:00 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Alaskan by maxamr628
+SpawnZ=279
+SpawnY=79
+SpawnX=265

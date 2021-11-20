@@ -1,0 +1,15 @@
+Plates:
+  Start: MCSGLobby, 256.44722279284207, 84.0, 53.3898560555612, 341.10403, 90.0
+  End: MCSGLobby, 238.7873638945822, 93.0, 57.464092096274214, 105.20453, 58.344055
+Holograms: true
+CommandsOnEnd:
+  Enabled: true
+  Commands:
+  - spawn %player%
+Messages:
+    Holograms:
+        Start: '&a&lComienzo del Parkour (Start)'
+        End: '&a&lFinal del Parkour (End)'
+    Start: '&a&lAcabas de comenzar el Parkour. Ve hasta la línea de meta!!'
+    End: '&a&lFelicidades, has conseguido el Parkour en %mins% minutos i %secs% segundos!'
+    Fly: '&c&lParkour Fallado. No Vueles!'

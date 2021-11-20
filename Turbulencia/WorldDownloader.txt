@@ -1,0 +1,9 @@
+#
+#Thu Jun 05 11:56:44 GMT-03:00 2014
+Spawn=xyz
+GameType=creative
+LinkedWorlds=
+ServerName=Turbulencia by maxmar628
+SpawnZ=-72
+SpawnY=54
+SpawnX=1097

@@ -1,0 +1,5 @@
+#
+#Thu Jun 05 13:59:21 GMT-03:00 2014
+GameType=creative
+LinkedWorlds=
+ServerName=Teweran 1 by maxmar628

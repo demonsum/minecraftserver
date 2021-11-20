@@ -1,0 +1,330 @@
+Alaskan:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-04T18:26:41.433Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: 257
+      Y: 78
+      Z: 256
+      WORLD: Alaskan
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: 0
+      Y: 22
+      Z: 3
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: 257
+    Y: 78
+    Z: 256
+    WORLD: Alaskan
+    YAW: -179.47974
+    PITCH: 18.217789
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Balrog:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-04T20:27:06.938Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: -66
+      Y: 12
+      Z: -623
+      WORLD: Balrog
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -66
+    Y: 12
+    Z: -623
+    YAW: 90.90004
+    PITCH: 19.199997
+    WORLD: Balrog
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Boombeard:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-04T20:39:07.323Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: -227
+      Y: 59
+      Z: 334
+      WORLD: Boombeard
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -227
+    Y: 62
+    Z: 334
+    YAW: 186.90001
+    PITCH: 15.150003
+    WORLD: Boombeard
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Cloudy:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-06T21:12:27.392Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: -257
+      Y: 63
+      Z: -1024
+      WORLD: Cloudy
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -257
+    Y: 63
+    Z: -1024
+    YAW: -264.7489
+    PITCH: 34.79999
+    WORLD: Cloudy
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+FutureCity:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-06T23:26:47.301Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: 99
+      Y: 91
+      Z: -1190
+      WORLD: futurecity
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: 99
+    Y: 91
+    Z: -1190
+    YAW: -358.95023
+    PITCH: 31.20001
+    WORLD: futurecity
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Destiny:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-06T23:46:30.815Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: -4565
+      Y: 60
+      Z: 592
+      WORLD: Destiny
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -4565
+    Y: 60
+    Z: 592
+    YAW: 93.3
+    PITCH: 42.44999
+    WORLD: Destiny
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Fortaleza:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-06T23:52:55.109Z
+  MAP:
+    RADIUS: 10000
+    CENTER:
+      X: -289
+      Y: 65
+      Z: 1178
+      WORLD: Fortaleza
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -289
+    Y: 65
+    Z: 1178
+    YAW: -356.99982
+    PITCH: 20.550014
+    WORLD: Fortaleza
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+OjoDeHorus:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-07T00:03:40.149Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: -37
+      Y: 62
+      Z: 220
+      WORLD: OjoDeHorus
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -37
+    Y: 62
+    Z: 220
+    YAW: 89.3996
+    PITCH: 89.55
+    WORLD: OjoDeHorus
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+SaladFrost:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-07T00:26:55.608Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: -399
+      Y: 21
+      Z: -1327
+      WORLD: saladfrost
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: -399
+    Y: 21
+    Z: -1327
+    YAW: -182.55286
+    PITCH: 32.69999
+    WORLD: saladfrost
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Teweran:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-07T15:51:11.287Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: 475
+      Y: 25
+      Z: 723
+      WORLD: Teweran
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: 475
+    Y: 25
+    Z: 723
+    YAW: 270.45007
+    PITCH: 84.59998
+    WORLD: Teweran
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
+Turbulencia:
+  CREATED_BY: l3st4t
+  DATE_CREATED: 2015-03-07T16:22:50.170Z
+  MAP:
+    RADIUS: 1000
+    CENTER:
+      X: 1075
+      Y: 57
+      Z: -69
+      WORLD: Turbulencia
+  DM:
+    RADIUS: 1000
+    CENTER:
+      X: -1
+      Y: 22
+      Z: 2
+      WORLD: Deathmatch
+  GHOSTSPAWN:
+    X: 1075
+    Y: 57
+    Z: -69
+    YAW: 180.90016
+    PITCH: 26.699999
+    WORLD: Turbulencia
+  START_MESSAGE:
+  - '%PREFIX% &c&m==============================================='
+  - '%PREFIX% &7This is a line'
+  - '%PREFIX% &5This is another line'
+  - '%PREFIX% &aThis is another line'
+  - '%PREFIX% &c&m==============================================='
